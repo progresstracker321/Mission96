@@ -1,0 +1,12 @@
+{
+  "name": "Mission 96% • Class 10",
+  "short_name": "Mission 96%",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#7c7cff",
+  "description": "Class 10 study dashboard for Mission 96%.",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
